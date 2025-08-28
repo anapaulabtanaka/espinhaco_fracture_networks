@@ -1,7 +1,10 @@
 # espinhaco_fracture_networks
 Fracture density interpretation of the Espinhaço Range Biosphere Reserve (ERBR) as a driver for floristic variation.
 
+<br>
+<img src="./cover/ERBRCNBOT.png" alt="blocodiagrama">
 
+<br/>
 
 ## Reference
 Viotti, J., Tanaka, A.P.B., Gripp, A., Costa, T., Gonzaga, A. (2025). Drivers of floristic variation in Cerrado–Atlantic Forest ecotones within the Espinhaço Range Biosphere Reserve. *75º Congresso Nacional de Botânica e 39ª Reunião Nordestina de Botânica*.
