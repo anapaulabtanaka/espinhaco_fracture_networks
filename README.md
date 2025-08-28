@@ -2,7 +2,7 @@
 Fracture density interpretation of the Espinhaço Range Biosphere Reserve (ERBR) as a driver for floristic variation.
 
 <br>
-<img src="./cover/ERBRCNBOT.png" alt="blocodiagrama">
+<img src="./cover/ERBR_blocodiagrama.png" alt="blocodiagrama">
 
 <br/>
 
